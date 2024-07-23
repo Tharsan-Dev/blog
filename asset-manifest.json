@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/blog/static/css/main.69668d2a.css",
+    "main.js": "/blog/static/js/main.1e0fcd1e.js",
+    "static/js/453.ede2c593.chunk.js": "/blog/static/js/453.ede2c593.chunk.js",
+    "static/media/1644826783284-3. Data Structures.png": "/blog/static/media/1644826783284-3. Data Structures.741d31925e95abf1f0d9.png",
+    "static/media/Javascript-Tutorial.jpg": "/blog/static/media/Javascript-Tutorial.6061e2458f1256577a28.jpg",
+    "static/media/Computer-Network-Components.jpeg": "/blog/static/media/Computer-Network-Components.96778a72bffb6366aa66.jpeg",
+    "static/media/Blogger-Logo-2010.png": "/blog/static/media/Blogger-Logo-2010.26742096e5dafa502d3d.png",
+    "static/media/brain-network-algorithm-could-improve-brain-stimulation-353332-640x360.jpg": "/blog/static/media/brain-network-algorithm-could-improve-brain-stimulation-353332-640x360.881e535cf9815d2a5768.jpg",
+    "index.html": "/blog/index.html",
+    "main.69668d2a.css.map": "/blog/static/css/main.69668d2a.css.map",
+    "main.1e0fcd1e.js.map": "/blog/static/js/main.1e0fcd1e.js.map",
+    "453.ede2c593.chunk.js.map": "/blog/static/js/453.ede2c593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69668d2a.css",
+    "static/js/main.1e0fcd1e.js"
+  ]
+}
